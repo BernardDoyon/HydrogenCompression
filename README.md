@@ -1,4 +1,7 @@
 # HydrogenCompression
+
+(See MatlabComputerProgramSummary.docx to visualize the dependencies of the different functions)
+ 
  main.m file¸
 
            1- This main file solves the equations for the hydrogen gaz and 
